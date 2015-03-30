@@ -60,7 +60,7 @@ The audit cost is payed by the investor.
 Type 'q' to quit
 ````
 
-### An infeasible contract
+### A infeasible contract
 
 ````text
 > 0*,3*,4,5,6
